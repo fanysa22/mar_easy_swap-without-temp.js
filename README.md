@@ -25,7 +25,6 @@ function result(numbers) {
 }
  
 console.log(result(numbers));
+
 console.log(numbers);
- 
-mar_easy_swap-without-temp.js
-Displaying mar_easy_swap-without-temp.js.
+
