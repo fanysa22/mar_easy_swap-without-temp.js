@@ -17,7 +17,9 @@ let numbers = {
  };
 
 function result(numbers) {
+
     // Code to swap 'a' and 'b'
+    
     // same as a = a + b become 6
         a = (a & b) + (a | b);
 
