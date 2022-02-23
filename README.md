@@ -11,6 +11,7 @@ Javascript test
  *  b: 2
  * }
  */
+ 
 let numbers = {
   a: 2,
   b: 4
